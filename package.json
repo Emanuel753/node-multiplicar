@@ -1,0 +1,14 @@
+{
+  "name": "tablas",
+  "version": "1.0.0",
+  "description": "generador de tablas de multiplicar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "emanto",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^14.0.0"
+  }
+}
